@@ -1,5 +1,5 @@
 # GraphDA
-This is a PyTorch implementation for Unsupervised Domain Adaptation on Graph Classification
+This is a PyTorch implementation of Unsupervised Domain Adaptation for Graph Classification
 
 ## Requirements
 * numpy==1.15.1
