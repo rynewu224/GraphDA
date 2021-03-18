@@ -1,5 +1,6 @@
 # GraphDA
-This is a PyTorch implementation of Unsupervised Domain Adaptation for Graph Classification
+This is a PyTorch implementation of Unsupervised Domain Adaptation for Graph Classification. 
+The model is a combination of Graph Neural Networks and some well-known DA frameworks, e.g, replacing the ResNet feature extractor with GCNs. 
 
 ## Requirements
 * numpy==1.15.1
