@@ -13,6 +13,7 @@ python run_dann.py
 ```
 
 ## Data
+The egonet dataset with 4 domains: OAG, Digg, Twitter and Weibo
 * raw: https://github.com/xptree/DeepInf
 * processed: https://pan.baidu.com/s/1BLxGa7785xuE17j_uVd2bA psw:9ins 
 
